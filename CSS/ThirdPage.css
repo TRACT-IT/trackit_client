@@ -298,6 +298,7 @@ input::placeholder {
     padding-bottom: 7px;
     border-bottom: 1px #B3B3B3 solid;
     width: 40.5%;
+    flex-grow: 1;
 }
 
 #SmallTitle1::placeholder {
@@ -309,6 +310,7 @@ input::placeholder {
 }
 
 #SmallTitle1 {
+    width: 454.974px;
     font-size: 14px;
     outline: none;
     border: none;
